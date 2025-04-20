@@ -610,6 +610,16 @@ textarea {
 
 @media only screen and (min-width:481px) and (max-width:768px), (orientation: portrait) {
 
+.nav img {
+    width: 25vw;
+  }
+  
+  nav span {
+    font-size: 30px; 
+    letter-spacing: 5px;
+    margin: 20px;
+  }
+
 .footer {
 height: 220px;
 }
@@ -625,7 +635,7 @@ height: 220px;
 }
 
 .overlay img {
-  width: 70%;
+  width: 50%;
   height: auto;
 }
 
